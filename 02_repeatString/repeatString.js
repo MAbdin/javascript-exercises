@@ -10,9 +10,6 @@ const repeatString = function(string, num) {
     }
     return newString
 
-    if(num < 0){
-        return 'ERROR';
-    }
 };
 
 // Do not edit below this line
